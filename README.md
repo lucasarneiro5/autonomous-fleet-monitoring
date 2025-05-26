@@ -50,3 +50,71 @@ This project simulates an IoT environment where autonomous vehicles operating in
   "temperature_celsius": 45.3,
   "system_status": "OK"
 }
+
+
+## Details generate_data.py:
+
+1. ✅ Imports e setup
+
+Faker: biblioteca que gera dados falsos realistas (nomes, coordenadas, frases...).
+random, uuid, datetime: geram números, IDs únicos e datas.
+pymongo: biblioteca oficial do Python para trabalhar com MongoDB.
+dotenv/os: para ler variáveis do .env.
+
+2. 🌐 Conectando com o banco
+
+MONGO_URI = os.getenv("MONGO_URI")
+DB_NAME = os.getenv("DB_NAME")
+client = MongoClient(MONGO_URI)
+db = client[DB_NAME]
+vehicle_collection = db["vehicle_data"]
+events_collection = db["urban_events"]
+
+Pega a URI e nome do banco do .env.
+Conecta no cluster MongoDB.
+Cria duas referências às collections onde os dados serão inseridos.
+
+3. ⚙️ Parâmetros configuráveis
+
+NUM_VEHICLES = 50
+NUM_VEHICLE_DOCS = 1000
+NUM_EVENT_DOCS = 1000
+Quantos veículos fictícios teremos.
+Quantos documentos em cada collection serão gerados.
+
+VEHICLE_IDS = [f"V-{2025}-{str(i).zfill(3)}" for i in range(NUM_VEHICLES)]
+Cria IDs no estilo V-2025-000, V-2025-001, ..., V-2025-049.
+
+4. 🧠 Funções geradoras de dados
+
+🚗 generate_vehicle_data():
+{
+  "vehicle_id": ...,               # ID do veículo
+  "timestamp": ...,                # Data/hora ISO
+  "location": {"lat": ..., "lng": ...},
+  "speed_kmh": ...,                # Velocidade
+  "battery_level": ...,            # Nível de bateria
+  "temperature_celsius": ...,      # Temperatura interna
+  "system_status": ...             # OK/WARNING/ERROR
+}
+Simula um "ping" do veículo com dados de sensores embarcados.
+
+🚧 generate_urban_event():
+{
+  "event_id": ...,                 # UUID do evento
+  "vehicle_id": ...,               # Veículo que detectou
+  "timestamp": ...,
+  "event_type": ...,               # obstacle, traffic_jam...
+  "description": ...,              # Frase aleatória
+  "location": {"lat": ..., "lng": ...},
+  "severity": ...                  # low/medium/high
+}
+Simula eventos no ambiente urbano, como obstáculos, detectados pelos veículos
+
+5. 📤 Inserção no MongoDB
+
+vehicle_docs = [generate_vehicle_data() for _ in range(NUM_VEHICLE_DOCS)]
+vehicle_collection.insert_many(vehicle_docs)
+Gera uma lista com 1.000 documentos e envia para o MongoDB.
+Repete o mesmo processo para a collection urban_events.
+
