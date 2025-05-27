@@ -50,3 +50,7 @@ This project simulates an IoT environment where autonomous vehicles operating in
   "temperature_celsius": 45.3,
   "system_status": "OK"
 }
+
+
+
+
