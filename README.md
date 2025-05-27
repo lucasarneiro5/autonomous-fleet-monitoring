@@ -51,8 +51,6 @@ This project simulates an IoT environment where autonomous vehicles operating in
   "system_status": "OK"
 }
 
-´´´
 
----
 
 
