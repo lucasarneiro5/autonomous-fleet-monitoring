@@ -1,0 +1,943 @@
+
+🔍 1. Veículos com falhas críticas nas últimas 24h
+V-2025-011 - 2025-06-16T08:40:09+00:00 - ERROR
+V-2025-030 - 2025-06-17T07:30:09+00:00 - ERROR
+V-2025-021 - 2025-06-17T08:08:09+00:00 - ERROR
+V-2025-022 - 2025-06-17T09:31:09+00:00 - ERROR
+V-2025-025 - 2025-06-17T10:04:09+00:00 - ERROR
+V-2025-032 - 2025-06-17T08:52:09+00:00 - ERROR
+V-2025-049 - 2025-06-17T08:37:09+00:00 - ERROR
+V-2025-027 - 2025-06-16T08:20:09+00:00 - ERROR
+V-2025-041 - 2025-06-17T06:40:09+00:00 - ERROR
+V-2025-012 - 2025-06-16T10:44:09+00:00 - ERROR
+V-2025-032 - 2025-06-16T07:11:09+00:00 - ERROR
+V-2025-036 - 2025-06-17T06:46:09+00:00 - ERROR
+V-2025-037 - 2025-06-17T09:29:09+00:00 - ERROR
+V-2025-010 - 2025-06-16T10:04:09+00:00 - ERROR
+V-2025-020 - 2025-06-17T08:27:09+00:00 - ERROR
+V-2025-019 - 2025-06-16T06:35:09+00:00 - ERROR
+V-2025-042 - 2025-06-17T08:50:09+00:00 - ERROR
+V-2025-029 - 2025-06-16T09:56:09+00:00 - ERROR
+V-2025-002 - 2025-06-16T09:39:09+00:00 - ERROR
+V-2025-044 - 2025-06-17T06:32:09+00:00 - ERROR
+V-2025-037 - 2025-06-16T07:22:09+00:00 - ERROR
+V-2025-012 - 2025-06-16T09:44:09+00:00 - ERROR
+V-2025-037 - 2025-06-17T06:37:09+00:00 - ERROR
+V-2025-009 - 2025-06-17T08:28:09+00:00 - ERROR
+V-2025-011 - 2025-06-17T07:54:09+00:00 - ERROR
+V-2025-009 - 2025-06-17T10:21:09+00:00 - ERROR
+⏱️  Tempo de execução: 1.8127 segundos
+
+
+🔍 2. Regiões com mais eventos severos
+Local: {'lat': -28.24, 'lng': -48.67028} - Eventos severos: 19
+Local: {'lat': -25.42944, 'lng': -50.00639} - Eventos severos: 19
+Local: {'lat': -10.95817, 'lng': -38.79084} - Eventos severos: 17
+Local: {'lat': -21.205, 'lng': -41.88778} - Eventos severos: 17
+Local: {'lat': -10.91722, 'lng': -37.65} - Eventos severos: 16
+⏱️  Tempo de execução: 0.1551 segundos
+
+
+🔍 3. Nível médio de bateria entre 6h e 10h
+Nível médio de bateria entre 6h e 10h: 51.61%
+⏱️  Tempo de execução: 0.1495 segundos
+
+
+🔍 4. Velocidade média por veículo nos últimos 7 dias
+V-2025-048 - Velocidade média: 77.91 km/h
+V-2025-021 - Velocidade média: 70.80 km/h
+V-2025-026 - Velocidade média: 69.65 km/h
+V-2025-049 - Velocidade média: 69.11 km/h
+V-2025-006 - Velocidade média: 68.44 km/h
+V-2025-035 - Velocidade média: 66.39 km/h
+V-2025-024 - Velocidade média: 66.13 km/h
+V-2025-030 - Velocidade média: 66.00 km/h
+V-2025-023 - Velocidade média: 64.99 km/h
+V-2025-031 - Velocidade média: 64.16 km/h
+V-2025-019 - Velocidade média: 63.86 km/h
+V-2025-004 - Velocidade média: 63.69 km/h
+V-2025-016 - Velocidade média: 63.69 km/h
+V-2025-041 - Velocidade média: 63.54 km/h
+V-2025-012 - Velocidade média: 63.50 km/h
+V-2025-002 - Velocidade média: 63.43 km/h
+V-2025-036 - Velocidade média: 62.62 km/h
+V-2025-022 - Velocidade média: 61.86 km/h
+V-2025-001 - Velocidade média: 61.63 km/h
+V-2025-005 - Velocidade média: 61.20 km/h
+V-2025-028 - Velocidade média: 61.09 km/h
+V-2025-027 - Velocidade média: 59.79 km/h
+V-2025-042 - Velocidade média: 59.32 km/h
+V-2025-037 - Velocidade média: 58.41 km/h
+V-2025-008 - Velocidade média: 58.29 km/h
+V-2025-045 - Velocidade média: 57.41 km/h
+V-2025-032 - Velocidade média: 57.30 km/h
+V-2025-025 - Velocidade média: 57.23 km/h
+V-2025-003 - Velocidade média: 56.32 km/h
+V-2025-013 - Velocidade média: 56.06 km/h
+V-2025-015 - Velocidade média: 55.87 km/h
+V-2025-017 - Velocidade média: 55.85 km/h
+V-2025-047 - Velocidade média: 55.11 km/h
+V-2025-044 - Velocidade média: 54.95 km/h
+V-2025-009 - Velocidade média: 54.49 km/h
+V-2025-040 - Velocidade média: 54.14 km/h
+V-2025-029 - Velocidade média: 53.70 km/h
+V-2025-000 - Velocidade média: 52.71 km/h
+V-2025-011 - Velocidade média: 52.44 km/h
+V-2025-014 - Velocidade média: 51.22 km/h
+V-2025-018 - Velocidade média: 51.20 km/h
+V-2025-007 - Velocidade média: 50.13 km/h
+V-2025-010 - Velocidade média: 49.96 km/h
+V-2025-043 - Velocidade média: 49.18 km/h
+V-2025-034 - Velocidade média: 48.94 km/h
+V-2025-020 - Velocidade média: 47.96 km/h
+V-2025-039 - Velocidade média: 46.95 km/h
+V-2025-038 - Velocidade média: 44.56 km/h
+V-2025-046 - Velocidade média: 44.21 km/h
+V-2025-033 - Velocidade média: 43.50 km/h
+⏱️  Tempo de execução: 0.1608 segundos
+
+
+🔍 5. Eventos ocorridos enquanto o sistema estava em 'ERROR'
+V-2025-047 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-037 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-028 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-001 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-030 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-002 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-047 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-041 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-021 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-044 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-043 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-035 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-010 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-029 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-027 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-040 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-024 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-032 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-044 - accident - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-017 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-018 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-027 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-044 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-039 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-001 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-042 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-045 - accident - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-022 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-037 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-021 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-007 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-046 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-038 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-004 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-000 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-046 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-028 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-035 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-005 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-004 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-012 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-038 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-022 - accident - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-011 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-040 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-043 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-039 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-002 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-009 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-014 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-049 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-024 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-049 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-049 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-046 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-042 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-000 - accident - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-001 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-017 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-038 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-007 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-040 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-018 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-008 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-038 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-013 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-042 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-009 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-002 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-015 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-029 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-019 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-014 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-012 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-036 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-024 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-001 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-037 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-017 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-027 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-017 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-035 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-034 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-018 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-028 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-010 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-030 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-002 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-000 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-019 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-001 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-002 - accident - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-043 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-001 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-047 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-001 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-044 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-039 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-047 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-019 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-044 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-005 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-024 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-038 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-043 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-043 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-001 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-009 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-027 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-008 - accident - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-009 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-043 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-040 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-049 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-047 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-035 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-008 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-044 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-002 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-029 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-045 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-042 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-012 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-046 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-043 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-019 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-005 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-001 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-034 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-046 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-000 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-030 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-011 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-001 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-027 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-042 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-028 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-042 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-021 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-035 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-029 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-032 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-000 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-039 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-002 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-022 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-038 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-032 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-034 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-007 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-010 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-011 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-022 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-046 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-038 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-010 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-036 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-004 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-024 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-040 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-032 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-017 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-021 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-045 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-014 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-032 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-018 - accident - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-011 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-028 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-017 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-029 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-019 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-001 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-002 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-042 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-025 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-038 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-009 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-012 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-032 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-017 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-010 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-036 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-039 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-008 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-024 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-045 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-036 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-001 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-022 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-038 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-017 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-038 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-049 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-012 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-027 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-034 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-044 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-001 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-049 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-046 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-013 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-015 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-045 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-044 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-038 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-007 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-007 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-027 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-005 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-012 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-043 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-020 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-042 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-040 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-034 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-013 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-025 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-027 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-034 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-032 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-021 - accident - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-012 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-025 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-001 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-043 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-027 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-042 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-042 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-036 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-030 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-005 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-030 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-034 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-049 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-005 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-017 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-025 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-036 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-021 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-008 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-020 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-011 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-044 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-001 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-029 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-011 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-011 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-038 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-042 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-011 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-049 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-036 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-027 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-044 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-043 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-025 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-015 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-049 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-010 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-012 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-032 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-030 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-034 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-010 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-010 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-007 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-014 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-011 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-040 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-029 - accident - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-043 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-022 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-002 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-002 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-032 - accident - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-034 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-002 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-001 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-021 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-024 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-010 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-034 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-036 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-043 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-042 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-028 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-045 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-000 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-047 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-044 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-014 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-008 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-015 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-020 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-009 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-014 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-038 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-021 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-027 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-025 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-000 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-037 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-014 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-044 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-025 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-025 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-043 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-015 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-008 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-021 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-049 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-017 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-035 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-043 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-047 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-035 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-001 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-046 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-005 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-037 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-000 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-024 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-000 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-039 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-015 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-022 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-008 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-011 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-021 - accident - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-030 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-041 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-004 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-018 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-027 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-021 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-013 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-012 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-022 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-005 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-019 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-018 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-044 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-009 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-021 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-032 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-010 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-020 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-049 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-018 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-017 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-021 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-012 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-004 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-047 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-010 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-022 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-039 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-022 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-028 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-041 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-039 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-020 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-021 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-047 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-019 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-019 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-004 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-046 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-044 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-014 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-025 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-025 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-032 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-049 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-049 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-044 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-022 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-009 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-029 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-000 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-013 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-008 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-000 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-043 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-005 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-011 - accident - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-018 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-022 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-021 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-017 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-046 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-000 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-032 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-036 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-034 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-013 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-009 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-025 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-040 - accident - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-022 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-049 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-010 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-028 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-039 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-012 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-027 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-036 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-010 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-025 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-005 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-024 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-044 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-020 - accident - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-019 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-038 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-022 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-018 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-047 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-049 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-000 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-015 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-012 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-015 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-008 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-012 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-039 - accident - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-044 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-038 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-014 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-049 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-045 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-030 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-021 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-044 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-035 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-013 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-035 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-047 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-015 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-037 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-042 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-028 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-017 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-046 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-013 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-020 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-013 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-045 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-049 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-001 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-027 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-009 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-046 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-002 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-034 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-018 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-042 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-017 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-010 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-042 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-034 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-035 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-002 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-005 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-034 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-043 - accident - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-007 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-046 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-036 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-040 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-001 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-035 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-009 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-022 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-030 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-019 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-017 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-025 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-022 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-000 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-008 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-028 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-027 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-046 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-046 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-024 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-041 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-027 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-037 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-044 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-004 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-013 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-009 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-027 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-028 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-008 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-017 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-045 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-027 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-027 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-049 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-010 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-002 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-008 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-012 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-024 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-008 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-002 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-009 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-014 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-005 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-029 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-045 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-045 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-037 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-032 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-007 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-004 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-008 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-043 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-017 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-032 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-008 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-027 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-019 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-021 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-005 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-015 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-021 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-013 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-008 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-005 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-044 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-029 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-005 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-049 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-039 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-005 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-029 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-013 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-015 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-043 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-019 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-049 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-036 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-039 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-012 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-022 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-030 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-007 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-027 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-024 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-001 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-040 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-004 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-030 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-046 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-017 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-022 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-035 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-010 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-038 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-029 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-019 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-019 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-001 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-004 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-010 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-036 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-029 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-018 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-011 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-005 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-032 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-012 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-035 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-010 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-039 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-009 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-008 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-022 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-034 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-041 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-019 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-038 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-004 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-040 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-018 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-021 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-021 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-020 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-010 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-007 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-009 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-042 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-037 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-045 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-047 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-011 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-042 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-028 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-024 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-032 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-015 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-035 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-017 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-017 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-022 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-029 - accident - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-005 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-038 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-042 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-002 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-007 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-037 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-002 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-045 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-028 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-045 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-018 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-014 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-021 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-018 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-011 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-028 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-030 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-028 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-011 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-012 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-036 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-030 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-043 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-030 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-047 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-045 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-043 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-047 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-039 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-045 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-046 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-011 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-036 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-043 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-030 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-028 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-020 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-000 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-009 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-017 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-011 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-049 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-045 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-012 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-042 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-042 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-027 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-007 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-010 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-014 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-047 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-019 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-044 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-005 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-009 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-019 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-000 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-040 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-028 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-001 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-034 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-012 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-018 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-043 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-002 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-025 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-045 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-036 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-005 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-024 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-005 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-038 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-025 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-020 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-005 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-012 - accident - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-019 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-046 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-014 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-032 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-027 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-018 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-022 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-020 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-034 - accident - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-049 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-025 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-014 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-013 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-046 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-010 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-004 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-043 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-017 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-045 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-021 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-005 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-012 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-034 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-034 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-014 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-044 - accident - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-020 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-045 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-014 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-039 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-029 - roadwork - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-014 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: low
+V-2025-022 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-015 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-014 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-035 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-032 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-041 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-039 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-037 - obstacle - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-000 - accident - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-014 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-028 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-047 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-013 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-025 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-020 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-045 - obstacle - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-013 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-042 - accident - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-021 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-037 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-042 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-001 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-037 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-012 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-030 - accident - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-040 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-025 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-029 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-028 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-039 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-021 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-030 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-041 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-021 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-009 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-042 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-017 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-018 - accident - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-008 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-032 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-017 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-021 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-045 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-004 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-036 - accident - 2025-06-13T01:18:09+00:00 - Severidade: low
+V-2025-044 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-011 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-020 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-022 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-040 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-012 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-012 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-047 - roadwork - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-036 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-021 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-021 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-004 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-021 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-044 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-000 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-024 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-022 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-010 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-010 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-044 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-027 - obstacle - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-025 - pedestrian_crossing - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-019 - roadwork - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-008 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-040 - obstacle - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-025 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: high
+V-2025-043 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-012 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-030 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-039 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-040 - accident - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-001 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-018 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-007 - obstacle - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-019 - roadwork - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-034 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-040 - pedestrian_crossing - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-028 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-027 - accident - 2025-06-12T01:18:09+00:00 - Severidade: medium
+V-2025-047 - pedestrian_crossing - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-035 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-020 - roadwork - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-047 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: medium
+V-2025-007 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-000 - accident - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-013 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-014 - accident - 2025-06-14T01:18:09+00:00 - Severidade: high
+V-2025-009 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-013 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-047 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-028 - obstacle - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-041 - accident - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-018 - traffic_jam - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-018 - pedestrian_crossing - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-025 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: medium
+V-2025-040 - traffic_jam - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-041 - traffic_jam - 2025-06-17T01:18:09+00:00 - Severidade: high
+V-2025-008 - traffic_jam - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-019 - accident - 2025-06-14T01:18:09+00:00 - Severidade: medium
+V-2025-002 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-025 - pedestrian_crossing - 2025-06-14T01:18:09+00:00 - Severidade: low
+V-2025-037 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-037 - accident - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-000 - pedestrian_crossing - 2025-06-11T01:18:09+00:00 - Severidade: high
+V-2025-015 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: high
+V-2025-007 - accident - 2025-06-12T01:18:09+00:00 - Severidade: high
+V-2025-038 - roadwork - 2025-06-11T01:18:09+00:00 - Severidade: medium
+V-2025-010 - accident - 2025-06-15T01:18:09+00:00 - Severidade: low
+V-2025-022 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-018 - accident - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-019 - pedestrian_crossing - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-022 - accident - 2025-06-17T01:18:09+00:00 - Severidade: medium
+V-2025-024 - traffic_jam - 2025-06-12T01:18:09+00:00 - Severidade: low
+V-2025-045 - traffic_jam - 2025-06-15T01:18:09+00:00 - Severidade: high
+V-2025-025 - accident - 2025-06-11T01:18:09+00:00 - Severidade: low
+V-2025-000 - obstacle - 2025-06-16T01:18:09+00:00 - Severidade: low
+V-2025-040 - traffic_jam - 2025-06-13T01:18:09+00:00 - Severidade: medium
+V-2025-011 - roadwork - 2025-06-15T01:18:09+00:00 - Severidade: medium
+⏱️  Tempo de execução: 0.9142 segundos
+

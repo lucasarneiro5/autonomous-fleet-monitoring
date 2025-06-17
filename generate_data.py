@@ -1,6 +1,6 @@
 import random
 import uuid
-from datetime import datetime
+from datetime import datetime, timedelta, UTC
 from faker import Faker
 from pymongo import MongoClient
 from dotenv import load_dotenv
@@ -34,9 +34,12 @@ SEVERITY_LEVELS = ["low", "medium", "high"]
 def generate_vehicle_data():
     vehicle_id = random.choice(VEHICLE_IDS)
     location = fake.local_latlng(country_code="BR", coords_only=True)
+    random_hour = random.randint(6, 10)
+    timestamp = datetime.now(UTC) - timedelta(days=random.randint(0, 6))
+    timestamp = timestamp.replace(hour=random_hour, minute=random.randint(0, 59), microsecond=0)
     return {
         "vehicle_id": vehicle_id,
-        "timestamp": datetime.utcnow().isoformat(),
+        "timestamp": timestamp.isoformat(),
         "location": {
             "lat": float(location[0]),
             "lng": float(location[1])
@@ -44,43 +47,40 @@ def generate_vehicle_data():
         "speed_kmh": round(random.uniform(0, 120), 2),
         "battery_level": round(random.uniform(10, 100), 2),
         "temperature_celsius": round(random.uniform(20, 90), 2),
-        "system_status": random.choice(STATUS_TYPES)
+        "system_status": random.choices(STATUS_TYPES, weights=[0.6, 0.3, 0.1])[0]
     }
 
 def generate_urban_event():
     vehicle_id = random.choice(VEHICLE_IDS)
     location = fake.local_latlng(country_code="BR", coords_only=True)
+    timestamp = datetime.now(UTC) - timedelta(days=random.randint(0, 6))
+    timestamp = timestamp.replace(microsecond=0)
     return {
         "event_id": str(uuid.uuid4()),
         "vehicle_id": vehicle_id,
-        "timestamp": datetime.utcnow().isoformat(),
+        "timestamp": timestamp.isoformat(),
         "event_type": random.choice(EVENT_TYPES),
         "description": fake.sentence(nb_words=6),
         "location": {
             "lat": float(location[0]),
             "lng": float(location[1])
         },
-        "severity": random.choice(SEVERITY_LEVELS)
+        "severity": random.choices(SEVERITY_LEVELS, weights=[0.2, 0.3, 0.5])[0]
     }
 
-# --- Delete old data if exists ---
+# --- Delete old data ---
 print("Checking for existing data...")
-vehicle_collection.delete_many({
-    "timestamp": {"$gte": start_of_today.isoformat()}
-})
+vehicle_collection.delete_many({})
+events_collection.delete_many({})
 
-deleted_events = events_collection.delete_many({})
-print(f"Deleted {deleted_vehicles.deleted_count} old vehicle records.")
-print(f"Deleted {deleted_events.deleted_count} old urban event records.")
-
-# --- Generate and insert new data ---
+# --- Generate data ---
 print(f"Generating {NUM_VEHICLE_DOCS} vehicle telemetry documents...")
 vehicle_docs = [generate_vehicle_data() for _ in range(NUM_VEHICLE_DOCS)]
 
 print(f"Generating {NUM_EVENT_DOCS} urban event documents...")
 event_docs = [generate_urban_event() for _ in range(NUM_EVENT_DOCS)]
 
-# Insert with timing
+# --- Insert data with timing ---
 print("Inserting vehicle data...")
 start_vehicles = time.time()
 vehicle_collection.insert_many(vehicle_docs)
@@ -93,4 +93,4 @@ events_collection.insert_many(event_docs)
 end_events = time.time()
 print(f"Urban event data inserted in {end_events - start_events:.2f} seconds.")
 
-print("Data generation and insertion completed.")
+print("✅ Data generation and insertion completed.")
