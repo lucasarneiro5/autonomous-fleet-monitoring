@@ -1,0 +1,13 @@
+Deleted 1000 vehicle records.
+Deleted 1000 urban event records.
+🧹 Data deletion completed in 2.92 seconds.
+
+Generating 1000 vehicle telemetry documents...
+Generating 1000 urban event documents...
+Inserting vehicle data...
+Vehicle data inserted in 3.76 seconds.
+
+Inserting urban events...
+Urban event data inserted in 4.60 seconds.
+
+✅ Data generation and insertion completed.

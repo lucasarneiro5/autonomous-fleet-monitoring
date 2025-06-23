@@ -6,6 +6,7 @@ from pymongo import MongoClient
 from dotenv import load_dotenv
 import os
 import time
+import sys
 
 # --- Setup ---
 load_dotenv()
@@ -39,7 +40,7 @@ def generate_vehicle_data():
     timestamp = timestamp.replace(hour=random_hour, minute=random.randint(0, 59), microsecond=0)
     return {
         "vehicle_id": vehicle_id,
-        "timestamp": timestamp.isoformat(),
+        "timestamp": timestamp, #.isoformat(),
         "location": {
             "lat": float(location[0]),
             "lng": float(location[1])
@@ -68,29 +69,43 @@ def generate_urban_event():
         "severity": random.choices(SEVERITY_LEVELS, weights=[0.2, 0.3, 0.5])[0]
     }
 
-# --- Delete old data ---
-print("Checking for existing data...")
-vehicle_collection.delete_many({})
-events_collection.delete_many({})
+# --- Redirecionar saída para arquivo ---
+original_stdout = sys.stdout
+with open("log_insercao.txt", "w", encoding="utf-8") as f:
+    sys.stdout = f
 
-# --- Generate data ---
-print(f"Generating {NUM_VEHICLE_DOCS} vehicle telemetry documents...")
-vehicle_docs = [generate_vehicle_data() for _ in range(NUM_VEHICLE_DOCS)]
+    # --- Delete old data ---
+    start_delete = time.time()
+    deleted_vehicles = vehicle_collection.delete_many({})
+    deleted_events = events_collection.delete_many({})
+    end_delete = time.time()
 
-print(f"Generating {NUM_EVENT_DOCS} urban event documents...")
-event_docs = [generate_urban_event() for _ in range(NUM_EVENT_DOCS)]
+    print(f"Deleted {deleted_vehicles.deleted_count} vehicle records.")
+    print(f"Deleted {deleted_events.deleted_count} urban event records.")
+    print(f"🧹 Data deletion completed in {end_delete - start_delete:.2f} seconds.\n")
 
-# --- Insert data with timing ---
-print("Inserting vehicle data...")
-start_vehicles = time.time()
-vehicle_collection.insert_many(vehicle_docs)
-end_vehicles = time.time()
-print(f"Vehicle data inserted in {end_vehicles - start_vehicles:.2f} seconds.")
+    # --- Generate data ---
+    print(f"Generating {NUM_VEHICLE_DOCS} vehicle telemetry documents...")
+    vehicle_docs = [generate_vehicle_data() for _ in range(NUM_VEHICLE_DOCS)]
 
-print("Inserting urban events...")
-start_events = time.time()
-events_collection.insert_many(event_docs)
-end_events = time.time()
-print(f"Urban event data inserted in {end_events - start_events:.2f} seconds.")
+    print(f"Generating {NUM_EVENT_DOCS} urban event documents...")
+    event_docs = [generate_urban_event() for _ in range(NUM_EVENT_DOCS)]
 
-print("✅ Data generation and insertion completed.")
+    # --- Insert data with timing ---
+    print("Inserting vehicle data...")
+    start_vehicles = time.time()
+    vehicle_collection.insert_many(vehicle_docs)
+    end_vehicles = time.time()
+    print(f"Vehicle data inserted in {end_vehicles - start_vehicles:.2f} seconds.\n")
+
+    print("Inserting urban events...")
+    start_events = time.time()
+    events_collection.insert_many(event_docs)
+    end_events = time.time()
+    print(f"Urban event data inserted in {end_events - start_events:.2f} seconds.\n")
+
+    print("✅ Data generation and insertion completed.")
+
+# Restaurar saída padrão
+sys.stdout = original_stdout
+print("📄 Logs salvos em 'log_insercao.txt'")
