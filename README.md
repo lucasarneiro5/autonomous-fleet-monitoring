@@ -1,3 +1,4 @@
+HEAD
 # 🚗 Autonomous Fleet Monitoring
 
 A smart simulation of autonomous vehicle fleet monitoring in urban environments using synthetic data and NoSQL storage.
@@ -65,6 +66,8 @@ This project generates fake telemetry and urban event data for a fleet of autono
 
 The `query.py` script answers key business questions such as:
 
+
+
 1. **Which vehicles had critical failures in the last 24 hours?**  
    → Enables prompt preventive maintenance.
 
@@ -129,4 +132,4 @@ MIT License. Feel free to fork, use, and contribute!
 
 ---
 
-> Created by [Lucas Arneiro](https://github.com/lucasarneiro5)
+Created by [Lucas Arneiro](https://github.com/lucasarneiro5)
