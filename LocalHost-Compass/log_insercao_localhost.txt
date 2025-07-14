@@ -1,0 +1,45 @@
+📅 Execution started at: 2025-07-14T14:26:02.982932+00:00
+
+Deleted 1000 vehicle records.
+Deleted 1000 urban event records.
+🧹 Data deletion completed in 0.04 seconds.
+
+Generating 1000 vehicle telemetry documents...
+Generating 1000 urban event documents...
+Inserting vehicle data...
+Vehicle data inserted in 0.02 seconds.
+
+Inserting urban events...
+Urban event data inserted in 0.01 seconds.
+
+
+🔧 Updating 5 random vehicle documents...
+
+Vehicle: V-2025-026
+  🔸 Battery: 51.4 → 81.86
+  🔸 Speed:   28.03 km/h → 107.15 km/h
+  🔸 Status:  OK → OK
+
+Vehicle: V-2025-049
+  🔸 Battery: 96.0 → 97.14
+  🔸 Speed:   107.06 km/h → 94.34 km/h
+  🔸 Status:  OK → OK
+
+Vehicle: V-2025-020
+  🔸 Battery: 45.07 → 48.06
+  🔸 Speed:   106.93 km/h → 45.1 km/h
+  🔸 Status:  ERROR → OK
+
+Vehicle: V-2025-010
+  🔸 Battery: 68.84 → 57.66
+  🔸 Speed:   7.4 km/h → 8.15 km/h
+  🔸 Status:  ERROR → ERROR
+
+Vehicle: V-2025-049
+  🔸 Battery: 29.68 → 84.21
+  🔸 Speed:   77.9 km/h → 55.85 km/h
+  🔸 Status:  WARNING → WARNING
+
+✅ Update completed in 0.00 seconds.
+
+✅ Data generation and insertion completed.

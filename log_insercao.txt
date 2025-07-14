@@ -1,45 +1,45 @@
-📅 Execution started at: 2025-06-24T00:38:38.541279+00:00
+📅 Execution started at: 2025-07-14T14:02:06.148534+00:00
 
 Deleted 1000 vehicle records.
 Deleted 1000 urban event records.
-🧹 Data deletion completed in 2.99 seconds.
+🧹 Data deletion completed in 0.76 seconds.
 
 Generating 1000 vehicle telemetry documents...
 Generating 1000 urban event documents...
 Inserting vehicle data...
-Vehicle data inserted in 3.79 seconds.
+Vehicle data inserted in 3.42 seconds.
 
 Inserting urban events...
-Urban event data inserted in 4.87 seconds.
+Urban event data inserted in 3.00 seconds.
 
 
 🔧 Updating 5 random vehicle documents...
 
-Vehicle: V-2025-023
-  🔸 Battery: 10.79 → 68.0
-  🔸 Speed:   74.65 km/h → 90.53 km/h
-  🔸 Status:  OK → WARNING
-
-Vehicle: V-2025-023
-  🔸 Battery: 95.96 → 25.22
-  🔸 Speed:   112.68 km/h → 68.96 km/h
+Vehicle: V-2025-039
+  🔸 Battery: 37.72 → 22.67
+  🔸 Speed:   103.95 km/h → 58.73 km/h
   🔸 Status:  ERROR → OK
 
-Vehicle: V-2025-013
-  🔸 Battery: 28.3 → 91.29
-  🔸 Speed:   21.04 km/h → 9.23 km/h
-  🔸 Status:  WARNING → WARNING
+Vehicle: V-2025-043
+  🔸 Battery: 45.17 → 22.86
+  🔸 Speed:   98.19 km/h → 53.16 km/h
+  🔸 Status:  OK → WARNING
 
-Vehicle: V-2025-007
-  🔸 Battery: 58.17 → 45.5
-  🔸 Speed:   1.42 km/h → 98.3 km/h
+Vehicle: V-2025-042
+  🔸 Battery: 11.47 → 37.56
+  🔸 Speed:   47.35 km/h → 57.6 km/h
   🔸 Status:  OK → OK
 
-Vehicle: V-2025-025
-  🔸 Battery: 35.63 → 68.29
-  🔸 Speed:   114.68 km/h → 77.39 km/h
-  🔸 Status:  WARNING → WARNING
+Vehicle: V-2025-013
+  🔸 Battery: 70.06 → 41.51
+  🔸 Speed:   42.84 km/h → 57.14 km/h
+  🔸 Status:  OK → OK
 
-✅ Update completed in 0.94 seconds.
+Vehicle: V-2025-000
+  🔸 Battery: 21.67 → 97.14
+  🔸 Speed:   48.91 km/h → 20.58 km/h
+  🔸 Status:  ERROR → OK
+
+✅ Update completed in 0.14 seconds.
 
 ✅ Data generation and insertion completed.

@@ -1,0 +1,30 @@
+
+🔍 1. Veículos com falhas críticas nas últimas 24h
+Total de veículos com falhas críticas nas últimas 24h: 37
+⏱️  Tempo de execução: 0.0106 segundos
+
+
+🔍 2. Regiões com mais eventos severos
+Top 5 regiões com mais eventos severos:
+Local: {'lat': -0.71667, 'lng': -48.52333} - Eventos severos: 21
+Local: {'lat': -29.2975, 'lng': -51.50361} - Eventos severos: 19
+Local: {'lat': -8.28333, 'lng': -35.03333} - Eventos severos: 18
+Local: {'lat': -28.81833, 'lng': -52.51028} - Eventos severos: 18
+Local: {'lat': -3.14306, 'lng': -58.44417} - Eventos severos: 18
+⏱️  Tempo de execução: 0.0031 segundos
+
+
+🔍 3. Nível médio de bateria entre 6h e 10h
+Nenhum dado encontrado nesse intervalo de tempo.
+⏱️  Tempo de execução: 0.0027 segundos
+
+
+🔍 4. Velocidade média por veículo nos últimos 7 dias
+Velocidade média geral nos últimos 7 dias: 59.54 km/h
+⏱️  Tempo de execução: 0.0034 segundos
+
+
+🔍 5. Eventos ocorridos enquanto o sistema estava em 'ERROR'
+Total de eventos relacionados a veículos com erro: 950
+⏱️  Tempo de execução: 0.0041 segundos
+
