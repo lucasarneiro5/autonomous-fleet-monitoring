@@ -1,0 +1,23 @@
+📅 Execution started at: 2025-07-14T20:55:13.095734
+
+🧹 Deleting old data...
+
+🗑️ Data deletion completed in 0.03 seconds.
+
+Generating 1000 vehicle telemetry records...
+Generating 1000 urban event records...
+🚗 Inserting vehicle data...
+🌆 Inserting urban event data...
+
+📥 Data insertion completed in 0.10 seconds.
+
+🔧 Updating 5 random vehicle records...
+
+ID 2718: Battery 37.11 → 50.62, Speed 116.5 → 106.7, Status OK → WARNING
+ID 2028: Battery 25.25 → 38.28, Speed 4.54 → 119.34, Status OK → WARNING
+ID 2281: Battery 47.04 → 56.58, Speed 105.3 → 106.05, Status WARNING → ERROR
+ID 2419: Battery 17.61 → 60.32, Speed 40.51 → 15.47, Status OK → ERROR
+ID 2650: Battery 19.26 → 10.28, Speed 98.86 → 71.1, Status ERROR → ERROR
+
+✅ Update completed in 0.01 seconds.
+📌 All operations finished.
